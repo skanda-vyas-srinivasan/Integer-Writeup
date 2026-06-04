@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="title desc">
   <title id="title">Simple integer program formulation</title>
   <desc id="desc">Minimize x one plus x two plus x three, subject to x one plus two x two greater than or equal to three, two x one plus x three greater than or equal to three, and x one, x two, x three nonnegative integers.</desc>
-  <rect x="0" y="0" width="900" height="310" fill="#ffffff"/>
   <g fill="#111111" font-family="Times New Roman, STIX Two Text, Georgia, serif" font-size="44">
     <text x="100" y="78">minimize</text>
     <text x="350" y="78">x₁ + x₂ + x₃</text>
