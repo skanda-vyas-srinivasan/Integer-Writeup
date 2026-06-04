@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="360" viewBox="0 0 1100 360" role="img" aria-labelledby="title desc">
+  <title id="title">Standard MILP formulation</title>
+  <desc id="desc">Minimize c transpose x plus h transpose y subject to A x plus G y less than or equal to b, x integer, y real.</desc>
+  <g fill="#111111" font-family="Times New Roman, STIX Two Text, Georgia, serif" font-size="48">
+    <text x="105" y="105">minimize</text>
+    <text x="360" y="105">
+      c<tspan baseline-shift="super" font-size="30">T</tspan>x + h<tspan baseline-shift="super" font-size="30">T</tspan>y
+    </text>
+    <text x="105" y="180">subject to</text>
+    <text x="360" y="180">Ax + Gy &#8804; b</text>
+    <text x="360" y="255">
+      x &#8712; &#8484;<tspan baseline-shift="super" font-size="30">n</tspan>,&#160; y &#8712; &#8477;<tspan baseline-shift="super" font-size="30">p</tspan>
+    </text>
+  </g>
+</svg>
